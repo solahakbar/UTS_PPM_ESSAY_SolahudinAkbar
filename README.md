@@ -2,17 +2,6 @@
 
 Aplikasi Activity Counter dibuat menggunakan Flutter dan Dart dengan arsitektur MVVM, Repository, dan Data sesuai ketentuan project UTS.
 
-## Menjalankan aplikasi
-
-1. Pastikan Flutter SDK sudah terpasang.
-2. Buka folder project `activity_counter` melalui VS Code.
-3. Jalankan perintah berikut di terminal:
-
-   ```bash
-   flutter pub get
-   flutter run
-   ```
-
 ## Fitur aplikasi
 
 - Home: menampilkan daftar aktivitas, nama aktivitas, nilai counter, dan total pencapaian.
